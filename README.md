@@ -4,12 +4,12 @@
 A 3D drone simulation game where players control a drone to pick up packages and deliver them to designated locations while navigating through a procedurally generated forest environment with obstacles.
 
 ## Features
--✅ **3D Drone Control**: Full 6 degrees of freedom movement (pitch, roll, yaw, and translation)
--✅ **Procedural Environment**: Randomly generated forests and rock formations
--✅ **Collision Detection**: Realistic collision handling with trees, rocks, and terrain
--✅ **Package Delivery System**: Pick up packages and deliver them to destinations to score points
--✅ **Camera Controls**: Third-person camera that follows the drone
--✅ **Physics Simulation**: Realistic drone movement and altitude control
+- ✅ **3D Drone Control**: Full 6 degrees of freedom movement (pitch, roll, yaw, and translation)
+- ✅ **Procedural Environment**: Randomly generated forests and rock formations
+- ✅ **Collision Detection**: Realistic collision handling with trees, rocks, and terrain
+- ✅ **Package Delivery System**: Pick up packages and deliver them to destinations to score points
+- ✅ **Camera Controls**: Third-person camera that follows the drone
+- ✅ **Physics Simulation**: Realistic drone movement and altitude control
 
 ## Controls
 - `W/S`: Move forward/backward
